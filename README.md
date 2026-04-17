@@ -1,4 +1,6 @@
-<h1 align="center">Follow Me 🚀</h1>
+<h1 align="center">Join Me 🚀</h1>
 <p align="justify">
-  &nbsp I am the boss of our software development team. I am going to build a global group of developers together, with the aim of facilitating collaboration across different regions and specialisations.
+  &nbsp Hi everyone, I’m looking for people to work with me remotely. It doesn’t matter if you have skills or not—anyone can join and contribute. If you’re interested in collaborating, learning, or just being part of a project, feel free to reach out!
+
+Let’s work together and see what we can build.
 </p>
